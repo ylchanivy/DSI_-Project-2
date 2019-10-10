@@ -40,3 +40,5 @@ Below is data dictionary for features was created
 
 
 # Conclusion and Recommendations
+Based on the score above, the top features 9.that influences House sale Price are: External Quality, Overall Quality,Interaction of External Quality & Overall Quality, Kitchen Quality,Garage Call, Basment Quality,Property Age, Year remodel/Add, Full Bath, found_pCon, Total Room Above Ground and FirePlace Quality.<br>
+Removing features that shows '0'magnitude in lasso regression chart does not imporved the model score.
