@@ -26,6 +26,7 @@ Refer to this link for full Data Dictinary:
 http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
 Below is data dictionary for features was created
+
 |Feature |Type |Description |
 |------|------|------|
 |Property Age|int|Current Year minus Year Built|
